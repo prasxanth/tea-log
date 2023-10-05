@@ -69,6 +69,7 @@
          import-sexps->uniq-modules
          remove-modules-in-stdlib
          (get-tea-log-modules installed-modules)
+         (+ [{"hy" "0.26"}])
          write-requirements-txt))
   (.print +console+ "Modules and versions saved to [#a6e3a1]requirements.txt[/]"))
 

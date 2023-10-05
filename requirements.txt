@@ -1,3 +1,4 @@
+hy==0.26
 hyrule==0.3.0
 toolz==0.12.0
 stdlib-list==0.9.0
