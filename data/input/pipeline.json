@@ -1,0 +1,26 @@
+{
+    "parse": {
+        "tea_log": "tea-log.txt",
+        "output_json": "tea-log.json",
+        "output_yaml": "tea-log.yaml"
+    },
+    "pydantic_model": {
+        "tea_log": "tea-log.json",
+        "show": true,
+        "output_model": "pydantic-model.py"
+    },
+    "fit": {
+        "tea_log": "tea-log.json",
+        "output_pickle": "stack-predictor.pkl"
+    },
+    "predict": {
+        "fit_file": "stack-predictor.pkl",
+        "mood": [5, 4.75, 4.5, 4.25],
+        "depression": [5, 4.75, 4.25, 5],
+        "focus": [5, 4.5, 5, 4.0],
+        "anxiety": [5, 4.5, 4.5, 4.5],
+        "energy": [5, 4.75, 4.5, 4.0],
+        "limit": 5,
+        "output_predictions": "predictions.csv"
+    }
+}

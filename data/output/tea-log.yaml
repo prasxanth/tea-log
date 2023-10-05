@@ -1,0 +1,2111 @@
+- date_time: '2023-06-01 10:45:00'
+  scores:
+    anxiety: 2.0
+    depression: 4.0
+    focus: 3.0
+    mood: 5.0
+  stack:
+    medium:
+      temperature: cold
+      type: sparkling_water
+    supplements:
+      butterfly_pea_flower: 1.0
+      ginger: 1.0
+      lemon: 1.0
+      rose_water: 1.0
+      shatavari: 1.0
+- date_time: '2023-06-01 18:00:00'
+  scores:
+    anxiety: 3.0
+    depression: 0.0
+    focus: 2.0
+    mood: 4.0
+  stack:
+    medium:
+      temperature: cold
+      type: sparkling_water
+    supplements:
+      ginger: 1.0
+      lemon: 1.0
+      matcha: 1.0
+      rose_water: 1.0
+- date_time: '2023-06-02 11:00:00'
+  scores:
+    anxiety: -1.0
+    depression: -3.0
+    focus: 2.0
+    mood: 0.0
+  stack:
+    medium:
+      temperature: cold
+      type: sparkling_water
+    supplements:
+      ginger: 1.0
+      rose_water: 1.0
+      spice_mix: 1.0
+      vitamin_b_complex: 1.0
+- date_time: '2023-06-03 19:00:00'
+  scores:
+    anxiety: 4.0
+    depression: 4.0
+    focus: 2.0
+    mood: 2.0
+  stack:
+    medium:
+      temperature: cold
+      type: sparkling_water
+    supplements:
+      ashwagandha: 1.0
+      ginger: 1.0
+      omega_3: 0.5
+      saffron: 0.5
+- date_time: '2023-06-03 10:30:00'
+  scores:
+    anxiety: 0.0
+    depression: 0.0
+    focus: 2.0
+    mood: -1.0
+  stack:
+    medium:
+      temperature: cold
+      type: sparkling_water
+    supplements:
+      coffee: 1.0
+      ginger: 1.0
+      moringa: 1.0
+      spice_mix: 1.0
+- date_time: '2023-06-04 10:00:00'
+  scores:
+    anxiety: 3.0
+    depression: 1.0
+    focus: 2.0
+    mood: 3.0
+  stack:
+    medium:
+      temperature: cold
+      type: sparkling_water
+    supplements:
+      butterfly_pea_flower: 1.0
+      lemon: 1.0
+      rose_water: 1.0
+      shatavari: 1.0
+- date_time: '2023-06-04 18:30:00'
+  scores:
+    anxiety: 2.0
+    depression: 0.0
+    focus: 0.0
+    mood: 2.0
+  stack:
+    medium:
+      temperature: cold
+      type: sparkling_water
+    supplements:
+      licorice: 1.0
+      tulsi: 2.0
+      turmeric: 1.0
+- date_time: '2023-06-05 13:30:00'
+  scores:
+    anxiety: 3.0
+    depression: 0.0
+    focus: 2.0
+    mood: 4.0
+  stack:
+    medium:
+      temperature: cold
+      type: sparkling_water
+    supplements:
+      licorice: 1.0
+      matcha: 1.0
+      turmeric: 1.0
+- date_time: '2023-06-06 10:30:00'
+  scores:
+    anxiety: 1.0
+    depression: 1.0
+    focus: 3.0
+    mood: 3.0
+  stack:
+    medium:
+      temperature: cold
+      type: sparkling_water
+    supplements:
+      lemon: 1.0
+      omega_3: 0.5
+      saffron: 0.5
+      shatavari: 1.0
+      tulsi: 1.0
+- date_time: '2023-06-07 10:30:00'
+  scores:
+    anxiety: 1.0
+    depression: 0.0
+    energy: 1.0
+    focus: 3.0
+    mood: 2.0
+  stack:
+    medium:
+      temperature: cold
+      type: sparkling_water
+    supplements:
+      ginger: 1.0
+      nuun_energy: 1.0
+      shatavari: 1.0
+      turmeric: 1.0
+- date_time: '2023-06-07 15:00:00'
+  scores:
+    anxiety: 0.0
+    depression: 0.0
+    energy: 2.0
+    focus: 2.0
+    mood: 2.0
+  stack:
+    medium:
+      temperature: cold
+      type: sparkling_water_plus_ice_cream
+    supplements:
+      licorice: 1.0
+      moringa: 1.0
+      vitamin_b_complex: 1.0
+- date_time: '2023-06-08 10:45:00'
+  scores:
+    anxiety: 3.0
+    depression: 4.0
+    energy: 2.0
+    focus: 2.0
+    mood: 4.0
+  stack:
+    medium:
+      temperature: cold
+      type: sparkling_water
+    supplements:
+      butterfly_pea_flower: 1.0
+      lemon: 1.0
+      rose_water: 1.0
+      shatavari: 1.0
+- date_time: '2023-06-09 11:00:00'
+  scores:
+    anxiety: 2.0
+    depression: 2.0
+    energy: 1.0
+    focus: 2.0
+    mood: 3.0
+  stack:
+    medium:
+      temperature: cold
+      type: sparkling_water
+    supplements:
+      hibiscus_flower: 1.0
+      lemon: 2.0
+      shatavari: 2.0
+- date_time: '2023-06-09 16:30:00'
+  scores:
+    anxiety: 1.0
+    depression: 1.0
+    energy: 3.0
+    focus: 3.0
+    mood: 2.0
+  stack:
+    medium:
+      temperature: cold
+      type: sparkling_water
+    supplements:
+      tulsi: 2.0
+      turmeric: 1.0
+      vitamin_b_complex: 1.0
+- date_time: '2023-06-10 11:00:00'
+  scores:
+    anxiety: 0.0
+    depression: 0.0
+    energy: 3.0
+    focus: 3.0
+    mood: 1.0
+  stack:
+    medium:
+      temperature: cold
+      type: sparkling_water
+    supplements:
+      ginger: 1.0
+      moringa: 1.0
+      nuun_energy: 1.0
+      omega_3: 0.25
+      rose_water: 1.0
+      saffron: 0.25
+- date_time: '2023-06-10 17:00:00'
+  scores:
+    anxiety: 1.0
+    depression: 4.0
+    energy: 2.0
+    focus: 3.0
+    mood: 3.0
+  stack:
+    medium:
+      temperature: cold
+      type: sparkling_water
+    supplements:
+      ginger: 1.5
+      lemon: 1.0
+      matcha: 1.0
+      shatavari: 1.0
+- date_time: '2023-06-11 12:30:00'
+  scores:
+    anxiety: 1.0
+    depression: 4.0
+    energy: 1.0
+    focus: 2.0
+    mood: 4.0
+  stack:
+    medium:
+      temperature: cold
+      type: sparkling_water
+    supplements:
+      butterfly_pea_flower: 1.0
+      ginger: 1.0
+      lemon: 1.0
+      tulsi: 1.0
+- date_time: '2023-06-12 9:30:00'
+  scores:
+    anxiety: 2.0
+    depression: 4.0
+    energy: 3.0
+    focus: 4.0
+    mood: 3.0
+  stack:
+    medium:
+      temperature: cold
+      type: sparkling_water
+    supplements:
+      spice_mix: 1.0
+      tulsi: 2.0
+      vitamin_b_complex: 1.0
+- date_time: '2023-06-12 17:00:00'
+  scores:
+    anxiety: 1.0
+    depression: 2.0
+    energy: 1.0
+    focus: 3.0
+    mood: 3.0
+  stack:
+    medium:
+      temperature: cold
+      type: sparkling_water
+    supplements:
+      ginger: 1.0
+      hibiscus_flower: 2.0
+      shatavari: 1.0
+- date_time: '2023-06-13 11:30:00'
+  scores:
+    anxiety: 1.0
+    depression: 0.0
+    energy: 1.0
+    focus: 1.0
+    mood: 3.0
+  stack:
+    medium:
+      temperature: cold
+      type: sparkling_water
+    supplements:
+      black_tea: 1.0
+      shatavari: 1.0
+      spice_mix: 1.0
+      tulsi: 2.0
+- date_time: '2023-06-13 17:30:00'
+  scores:
+    anxiety: 3.0
+    depression: 1.0
+    energy: 3.0
+    focus: 2.0
+    mood: 3.0
+  stack:
+    medium:
+      temperature: cold
+      type: sparkling_water
+    supplements:
+      hibiscus_flower: 2.0
+      lemon: 1.0
+      omega_3: 0.5
+      saffron: 0.5
+- date_time: '2023-06-14 11:30:00'
+  scores:
+    anxiety: 0.0
+    depression: 0.0
+    energy: 3.0
+    focus: 2.0
+    mood: 1.0
+  stack:
+    medium:
+      temperature: cold
+      type: sparkling_water
+    supplements:
+      black_tea: 2.0
+      ginger: 1.0
+      licorice: 1.0
+      matcha: 1.0
+      nuun_energy: 1.0
+- date_time: '2023-06-15 11:30:00'
+  scores:
+    anxiety: 1.0
+    depression: 2.0
+    energy: 3.0
+    focus: 3.0
+    mood: 3.0
+  stack:
+    medium:
+      temperature: cold
+      type: sparkling_water
+    supplements:
+      butterfly_pea_flower: 1.0
+      lemon: 1.0
+      licorice: 1.0
+      tulsi: 1.0
+- date_time: '2023-06-15 16:30:00'
+  scores:
+    anxiety: 1.0
+    depression: 1.0
+    energy: 2.0
+    focus: 2.0
+    mood: 2.0
+  stack:
+    medium:
+      temperature: cold
+      type: sparkling_water
+    supplements:
+      ginger: 1.0
+      omega_3: 0.5
+      saffron: 0.5
+      tulsi: 2.0
+- date_time: '2023-06-16 17:30:00'
+  scores:
+    anxiety: 0.0
+    depression: 0.0
+    energy: 1.0
+    focus: 1.0
+    mood: 0.0
+  stack:
+    medium:
+      temperature: cold
+      type: sparkling_water
+    supplements:
+      ginger: 1.0
+      hibiscus_flower: 2.0
+      lemon: 1.5
+- date_time: '2023-06-17 9:30:00'
+  scores:
+    anxiety: 2.0
+    depression: 2.0
+    energy: 4.0
+    focus: 1.0
+    mood: 4.0
+  stack:
+    medium:
+      temperature: cold
+      type: sparkling_water
+    supplements:
+      shatavari: 1.0
+      tulsi: 2.5
+      vitamin_b_complex: 1.0
+- date_time: '2023-06-17 17:45:00'
+  scores:
+    anxiety: 2.0
+    depression: 2.0
+    energy: 4.0
+    focus: 1.0
+    mood: 4.0
+  stack:
+    medium:
+      temperature: cold
+      type: sparkling_water
+    supplements:
+      lemon: 1.0
+      matcha: 1.0
+      shatavari: 1.0
+      tulsi: 1.0
+- date_time: '2023-06-18 17:30:00'
+  scores:
+    anxiety: 0.0
+    depression: 0.0
+    energy: 1.0
+    focus: 1.0
+    mood: 1.0
+  stack:
+    medium:
+      temperature: cold
+      type: sparkling_water
+    supplements:
+      hibiscus_flower: 2.0
+      lemon: 1.0
+      shatavari: 1.0
+- date_time: '2023-06-19 11:00:00'
+  scores:
+    anxiety: 0.0
+    depression: 0.0
+    energy: 3.0
+    focus: 1.0
+    mood: 0.0
+  stack:
+    medium:
+      temperature: cold
+      type: black_tea
+    supplements:
+      lemon: 1.0
+      sukku_malli_coffee: 1.0
+      tulsi: 1.0
+- date_time: '2023-06-20 11:00:00'
+  scores:
+    anxiety: 2.0
+    depression: 2.0
+    energy: 1.0
+    focus: 2.0
+    mood: 3.0
+  stack:
+    medium:
+      temperature: cold
+      type: sparkling_water
+    supplements:
+      butterfly_pea_flower: 1.0
+      ginger: 1.0
+      hibiscus_flower: 1.0
+      licorice: 1.0
+- date_time: '2023-06-21 12:15:00'
+  scores:
+    anxiety: 2.0
+    depression: 2.0
+    energy: 1.0
+    focus: 2.0
+    mood: 3.0
+  stack:
+    medium:
+      temperature: cold
+      type: sparkling_water
+    supplements:
+      rose_water: 1.0
+      shatavari: 1.0
+      sukku_malli_coffee: 1.0
+      vitamin_b_complex: 1.0
+- date_time: '2023-06-21 18:30:00'
+  scores:
+    anxiety: 0.0
+    depression: 1.0
+    energy: 1.0
+    focus: 3.0
+    mood: 2.0
+  stack:
+    medium:
+      temperature: cold
+      type: sparkling_water
+    supplements:
+      ginger: 1.0
+      hibiscus_flower: 1.0
+      matcha: 1.0
+      rose_water: 1.0
+- date_time: '2023-06-22 11:00:00'
+  scores:
+    anxiety: 0.0
+    depression: 1.0
+    energy: 2.0
+    focus: 1.0
+    mood: 3.0
+  stack:
+    medium:
+      temperature: cold
+      type: sparkling_water
+    supplements:
+      butterfly_pea_flower: 1.0
+      ginger: 1.0
+      licorice: 1.0
+      omega_3: 0.5
+      saffron: 0.5
+- date_time: '2023-06-22 18:00:00'
+  scores:
+    anxiety: 0.0
+    depression: 2.0
+    energy: 2.0
+    focus: 3.0
+    mood: 1.0
+  stack:
+    medium:
+      temperature: cold
+      type: sparkling_water
+    supplements:
+      ginger: 1.0
+      hibiscus_flower: 1.0
+      matcha: 1.0
+      rose_water: 1.0
+- date_time: '2023-06-23 12:15:00'
+  scores:
+    anxiety: 2.0
+    depression: 1.0
+    energy: 1.0
+    focus: 2.0
+    mood: 3.0
+  stack:
+    medium:
+      temperature: cold
+      type: sparkling_water
+    supplements:
+      rose_water: 1.0
+      shatavari: 1.0
+      tulsi: 1.0
+      turmeric: 1.0
+- date_time: '2023-06-23 17:00:00'
+  scores:
+    anxiety: 3.0
+    depression: 3.0
+    energy: 4.0
+    focus: 2.0
+    mood: 3.0
+  stack:
+    medium:
+      temperature: cold
+      type: sparkling_water
+    supplements:
+      ashwagandha: 1.0
+      ginger: 1.0
+      licorice: 1.0
+      rose_water: 1.0
+- date_time: '2023-06-24 12:15:00'
+  scores:
+    anxiety: 1.0
+    depression: 2.0
+    energy: 1.0
+    focus: 1.0
+    mood: 2.0
+  stack:
+    medium:
+      temperature: cold
+      type: sparkling_water
+    supplements:
+      ginger: 1.0
+      hibiscus_flower: 1.0
+      lemon_balm: 1.0
+      turmeric: 1.0
+- date_time: '2023-06-25 11:15:00'
+  scores:
+    anxiety: 1.0
+    depression: 2.0
+    energy: 1.0
+    focus: 1.0
+    mood: 2.0
+  stack:
+    medium:
+      temperature: cold
+      type: sparkling_water
+    supplements:
+      butterfly_pea_flower: 1.0
+      ginger: 1.0
+      rose_water: 1.0
+      shatavari: 1.0
+- date_time: '2023-06-25 18:15:00'
+  scores:
+    anxiety: 3.0
+    depression: 4.0
+    energy: 2.0
+    focus: 2.0
+    mood: 3.0
+  stack:
+    medium:
+      temperature: cold
+      type: sparkling_water
+    supplements:
+      hibiscus_flower: 1.0
+      licorice: 1.0
+      rose_water: 1.0
+      vitamin_b_complex: 1.0
+- date_time: '2023-06-26 11:00:00'
+  scores:
+    anxiety: 1.0
+    depression: 2.0
+    energy: 2.0
+    focus: 1.0
+    mood: 3.0
+  stack:
+    medium:
+      temperature: cold
+      type: sparkling_water
+    supplements:
+      butterfly_pea_flower: 1.0
+      ginger: 1.0
+      licorice: 1.0
+      rose_water: 1.0
+- date_time: '2023-06-26 19:00:00'
+  scores:
+    anxiety: 2.0
+    depression: 2.0
+    energy: 5.0
+    focus: 4.0
+    mood: 3.0
+  stack:
+    medium:
+      temperature: cold
+      type: orange_juice
+    supplements:
+      matcha: 1.0
+      rose_water: 1.0
+      turmeric: 2.0
+- date_time: '2023-06-27 11:30:00'
+  scores:
+    anxiety: 2.0
+    depression: 2.0
+    energy: 4.0
+    focus: 3.0
+    mood: 3.0
+  stack:
+    medium:
+      temperature: cold
+      type: orange_juice
+    supplements:
+      ginger: 1.0
+      hibiscus_flower: 1.0
+      lemon_balm: 1.0
+      shatavari: 1.0
+- date_time: '2023-06-27 18:15:00'
+  scores:
+    anxiety: 2.0
+    depression: 3.0
+    energy: 2.0
+    focus: 2.0
+    mood: 3.0
+  stack:
+    medium:
+      temperature: cold
+      type: sparkling_water
+    supplements:
+      licorice: 1.0
+      matcha: 1.0
+      omega_3: 0.5
+      saffron: 0.5
+      turmeric: 1.0
+- date_time: '2023-06-28 17:45:00'
+  scores:
+    anxiety: 2.0
+    depression: 3.0
+    energy: 3.0
+    focus: 2.0
+    mood: 4.0
+  stack:
+    medium:
+      temperature: cold
+      type: orange_juice
+    supplements:
+      hibiscus_flower: 1.0
+      matcha: 1.0
+      shatavari: 1.0
+      tulsi: 1.0
+- date_time: '2023-06-29 11:45:00'
+  scores:
+    anxiety: 2.0
+    depression: 1.0
+    energy: 3.0
+    focus: 2.0
+    mood: 3.0
+  stack:
+    medium:
+      temperature: cold
+      type: orange_juice
+    supplements:
+      butterfly_pea_flower: 1.0
+      ginger: 1.0
+      lemon_balm: 1.0
+      rose_water: 1.0
+- date_time: '2023-06-29 18:15:00'
+  scores:
+    anxiety: 4.0
+    depression: 3.0
+    energy: 3.0
+    focus: 3.0
+    mood: 3.0
+  stack:
+    medium:
+      temperature: cold
+      type: sparkling_water
+    supplements:
+      matcha: 1.0
+      rose_water: 1.5
+      shatavari: 1.0
+      turmeric: 1.0
+- date_time: '2023-06-30 17:00:00'
+  scores:
+    anxiety: 4.0
+    depression: 1.0
+    energy: 3.0
+    focus: 4.0
+    mood: 3.0
+  stack:
+    medium:
+      temperature: cold
+      type: green_tea
+    supplements:
+      ginger: 1.0
+      omega_3: 0.5
+      saffron: 0.5
+      shatavari: 1.0
+      turmeric: 1.0
+- date_time: '2023-07-01 09:15:00'
+  scores:
+    anxiety: 2.0
+    depression: 2.0
+    energy: 4.0
+    focus: 3.0
+    mood: 3.0
+  stack:
+    medium:
+      temperature: cold
+      type: orange_juice
+    supplements:
+      ginger: 1.0
+      hibiscus_flower: 1.0
+      licorice: 1.0
+      vitamin_b_complex: 1.0
+- date_time: '2023-07-01 18:45:00'
+  scores:
+    anxiety: 2.0
+    depression: 2.0
+    energy: 4.0
+    focus: 3.0
+    mood: 3.0
+  stack:
+    medium:
+      temperature: cold
+      type: sparkling_water
+    supplements:
+      butterfly_pea_flower: 1.0
+      lemon_balm: 1.0
+      matcha: 1.0
+      turmeric: 1.0
+- date_time: '2023-07-02 10:00:00'
+  scores:
+    anxiety: 1.0
+    depression: 2.0
+    energy: 2.0
+    focus: 2.0
+    mood: 3.0
+  stack:
+    medium:
+      temperature: cold
+      type: orange_juice
+    supplements:
+      ginger: 1.0
+      rose_water: 1.0
+      shatavari: 1.0
+      tulsi: 1.0
+- date_time: '2023-07-02 18:15:00'
+  scores:
+    anxiety: 2.0
+    depression: 2.0
+    energy: 5.0
+    focus: 3.0
+    mood: 3.0
+  stack:
+    medium:
+      temperature: cold
+      type: sparkling_water
+    supplements:
+      butterfly_pea_flower: 1.0
+      rose_water: 1.0
+      tulsi: 1.0
+      vitamin_b_complex: 1.0
+- date_time: '2023-07-03 12:45:00'
+  scores:
+    anxiety: 1.0
+    depression: 1.0
+    energy: 1.0
+    focus: 3.0
+    mood: 3.0
+  stack:
+    medium:
+      temperature: cold
+      type: lemon_juice
+    supplements:
+      butterfly_pea_flower: 1.0
+      ginger: 1.0
+      shatavari: 1.0
+      turmeric: 1.0
+- date_time: '2023-07-04 11:15:00'
+  scores:
+    anxiety: 4.0
+    depression: 4.0
+    energy: 4.0
+    focus: 4.5
+    mood: 4.0
+  stack:
+    medium:
+      temperature: cold
+      type: green_tea_plus_lemon_juice
+    supplements:
+      ginger: 1.0
+      omega_3: 0.5
+      rose_water: 1.0
+      saffron: 0.5
+      shatavari: 1.0
+- date_time: '2023-07-04 19:15:00'
+  scores:
+    anxiety: 1.0
+    depression: 1.0
+    energy: 1.0
+    focus: 2.0
+    mood: 2.0
+  stack:
+    medium:
+      temperature: cold
+      type: lemon_juice
+    supplements:
+      butterfly_pea_flower: 1.0
+      ginger: 1.0
+      licorice: 1.0
+- date_time: '2023-07-05 11:45:00'
+  scores:
+    anxiety: 1.0
+    depression: 1.0
+    energy: 1.0
+    focus: 2.0
+    mood: 1.0
+  stack:
+    medium:
+      temperature: cold
+      type: green_tea_plus_lemon_juice
+    supplements:
+      hibiscus_flower: 1.0
+      lemon_balm: 1.0
+      tulsi: 1.0
+      turmeric: 1.0
+- date_time: '2023-07-05 18:45:00'
+  scores:
+    anxiety: 2.0
+    depression: 1.0
+    energy: 2.0
+    focus: 3.5
+    mood: 3.0
+  stack:
+    medium:
+      temperature: cold
+      type: sparkling_water_plus_lemon_juice
+    supplements:
+      ginger: 1.5
+      matcha: 2.0
+      rose_water: 1.0
+- date_time: '2023-07-06 11:00:00'
+  scores:
+    anxiety: 3.0
+    depression: 3.0
+    energy: 4.0
+    focus: 4.0
+    mood: 3.0
+  stack:
+    medium:
+      temperature: cold
+      type: sparkling_water_plus_lemon_juice
+    supplements:
+      hibiscus_flower: 2.0
+      nuun_energy: 1.0
+      shatavari: 1.0
+- date_time: '2023-07-06 18:15:00'
+  scores:
+    anxiety: 1.0
+    depression: 1.0
+    energy: 2.0
+    focus: 1.0
+    mood: 1.0
+  stack:
+    medium:
+      temperature: cold
+      type: sparkling_water_plus_orange_juice
+    supplements:
+      ginger: 1.0
+      lemon_balm: 1.0
+      rose_water: 1.0
+      turmeric: 2.0
+- date_time: '2023-07-07 11:00:00'
+  scores:
+    anxiety: 2.0
+    depression: 2.0
+    energy: 2.0
+    focus: 3.0
+    mood: 2.0
+  stack:
+    medium:
+      temperature: cold
+      type: sparkling_water_plus_orange_juice
+    supplements:
+      arjuna_bark: 1.0
+      ashwagandha: 1.0
+      butterfly_pea_flower: 2.0
+- date_time: '2023-07-07 17:45:00'
+  scores:
+    anxiety: 0.0
+    depression: 1.0
+    energy: 2.0
+    focus: 2.0
+    mood: 2.0
+  stack:
+    medium:
+      temperature: cold
+      type: sparkling_water
+    supplements:
+      black_tea: 2.0
+      ginger: 2.0
+      licorice: 2.0
+      tulsi: 2.0
+- date_time: '2023-07-08 10:45:00'
+  scores:
+    anxiety: 2.0
+    depression: 2.0
+    energy: 2.0
+    focus: 3.0
+    mood: 2.0
+  stack:
+    medium:
+      temperature: cold
+      type: sparkling_water_plus_orange_juice
+    supplements:
+      butterfly_pea_flower: 1.0
+      omega_3: 0.5
+      rose_water: 1.0
+      saffron: 0.5
+      tulsi: 2.0
+- date_time: '2023-07-08 18:00:00'
+  scores:
+    anxiety: 2.0
+    depression: 2.0
+    energy: 2.0
+    focus: 2.0
+    mood: 2.0
+  stack:
+    medium:
+      temperature: cold
+      type: sparkling_water
+    supplements:
+      butterfly_pea_flower: 1.0
+      ginger: 1.5
+      lemon_balm: 2.0
+      matcha: 1.0
+- date_time: '2023-07-09 10:45:00'
+  scores:
+    anxiety: 2.0
+    depression: 1.0
+    energy: 1.0
+    focus: 2.0
+    mood: 3.0
+  stack:
+    medium:
+      temperature: cold
+      type: sparkling_water_plus_orange_juice
+    supplements:
+      arjuna_bark: 1.5
+      shatavari: 1.5
+      tulsi: 1.5
+      vitamin_b_complex: 1.5
+- date_time: '2023-07-09 18:00:00'
+  scores:
+    anxiety: 2.0
+    depression: 2.0
+    energy: 2.0
+    focus: 2.0
+    mood: 2.0
+  stack:
+    medium:
+      temperature: cold
+      type: sparkling_water
+    supplements:
+      hibiscus_flower: 2.0
+      licorice: 2.0
+      matcha: 2.0
+      turmeric: 1.5
+- date_time: '2023-07-10 11:15:00'
+  scores:
+    anxiety: 2.0
+    depression: 2.0
+    energy: 4.0
+    focus: 3.5
+    mood: 3.0
+  stack:
+    medium:
+      temperature: cold
+      type: sparkling_water_plus_orange_juice
+    supplements:
+      ginger: 1.5
+      licorice: 2.0
+      omega_3: 1.0
+      saffron: 1.0
+      tulsi: 1.5
+- date_time: '2023-07-11 11:00:00'
+  scores:
+    anxiety: 1.0
+    depression: 1.0
+    energy: 3.0
+    focus: 1.0
+    mood: 3.0
+  stack:
+    medium:
+      temperature: cold
+      type: coconut_water
+    supplements:
+      arjuna_bark: 1.5
+      butterfly_pea_flower: 2.0
+      ginger: 1.5
+      shatavari: 2.0
+- date_time: '2023-07-11 18:00:00'
+  scores:
+    anxiety: 2.0
+    depression: 2.0
+    energy: 2.0
+    focus: 2.0
+    mood: 2.0
+  stack:
+    medium:
+      temperature: cold
+      type: coconut_milk
+    supplements:
+      ginger: 1.5
+      licorice: 1.5
+      matcha: 2.0
+      turmeric: 2.0
+- date_time: '2023-07-12 11:00:00'
+  scores:
+    anxiety: 1.0
+    depression: 1.0
+    energy: 3.0
+    focus: 1.0
+    mood: 3.0
+  stack:
+    medium:
+      temperature: cold
+      type: coconut_water
+    supplements:
+      arjuna_bark: 1.5
+      hibiscus_flower: 1.5
+      shatavari: 2.0
+      vitamin_b_complex: 1.5
+- date_time: '2023-07-12 18:00:00'
+  scores:
+    anxiety: 1.0
+    depression: 2.0
+    energy: 3.5
+    focus: 3.0
+    mood: 2.0
+  stack:
+    medium:
+      temperature: cold
+      type: coconut_milk
+    supplements:
+      ashwagandha: 1.0
+      butterfly_pea_flower: 2.0
+      ginger: 1.5
+      lemon_balm: 3.0
+      matcha: 2.0
+      turmeric: 1.0
+- date_time: '2023-07-13 11:00:00'
+  scores:
+    anxiety: 2.0
+    depression: 3.0
+    energy: 4.0
+    focus: 3.0
+    mood: 4.0
+  stack:
+    medium:
+      temperature: cold
+      type: sparkling_water
+    supplements:
+      arjuna_bark: 1.5
+      butterfly_pea_flower: 1.0
+      ginger: 2.25
+      omega_3: 0.5
+      saffron: 0.5
+      shatavari: 2.0
+- date_time: '2023-07-13 17:15:00'
+  scores:
+    anxiety: 2.0
+    depression: 3.0
+    energy: 4.0
+    focus: 4.0
+    mood: 3.0
+  stack:
+    medium:
+      temperature: cold
+      type: coconut_milk
+    supplements:
+      arjuna_bark: 1.5
+      butterfly_pea_flower: 2.0
+      licorice: 1.5
+      moringa: 1.5
+      turmeric: 1.5
+- date_time: '2023-07-14 11:15:00'
+  scores:
+    anxiety: 2.0
+    depression: 2.0
+    energy: 3.0
+    focus: 2.0
+    mood: 3.5
+  stack:
+    medium:
+      temperature: cold
+      type: lemon_juice
+    supplements:
+      ginger: 1.5
+      licorice: 1.5
+      matcha: 2.0
+      tulsi: 2.0
+      vitamin_b_complex: 1.5
+- date_time: '2023-07-17 12:30:00'
+  scores:
+    anxiety: 2.0
+    depression: 2.0
+    energy: 3.0
+    focus: 3.0
+    mood: 3.0
+  stack:
+    medium:
+      temperature: cold
+      type: lemon_juice
+    supplements:
+      ginger: 1.5
+      licorice: 1.5
+      matcha: 2.0
+      tulsi: 2.0
+      vitamin_b_complex: 1.5
+- date_time: '2023-07-17 20:00:00'
+  scores:
+    anxiety: 2.0
+    depression: 2.0
+    energy: 3.0
+    focus: 3.0
+    mood: 2.0
+  stack:
+    medium:
+      temperature: cold
+      type: lemon_juice
+    supplements:
+      butterfly_pea_flower: 2.0
+      lemon_balm: 2.0
+      omega_3: 0.75
+      saffron: 0.75
+- date_time: '2023-07-18 12:30:00'
+  scores:
+    anxiety: 2.0
+    depression: 2.0
+    energy: 3.0
+    focus: 3.0
+    mood: 3.0
+  stack:
+    medium:
+      temperature: cold
+      type: lemon_juice
+    supplements:
+      ginger: 1.5
+      hibiscus_flower: 2.0
+      moringa: 1.5
+      shatavari: 1.5
+      tulsi: 2.0
+      turmeric: 1.5
+- date_time: '2023-07-19 11:45:00'
+  scores:
+    anxiety: 2.0
+    depression: 1.0
+    energy: 3.0
+    focus: 2.0
+    mood: 2.0
+  stack:
+    medium:
+      temperature: cold
+      type: lemon_juice
+    supplements:
+      arjuna_bark: 1.5
+      ashwagandha: 1.0
+      butterfly_pea_flower: 1.0
+      ginger: 1.5
+      hibiscus_flower: 1.0
+      licorice: 1.5
+- date_time: '2023-07-20 10:45:00'
+  scores:
+    anxiety: 2.0
+    depression: 2.0
+    energy: 4.0
+    focus: 3.0
+    mood: 4.0
+  stack:
+    medium:
+      temperature: cold
+      type: lemon_juice
+    supplements:
+      arjuna_bark: 1.5
+      butterfly_pea_flower: 2.0
+      rose_water: 3.0
+      shatavari: 1.5
+      turmeric: 1.5
+      vitamin_b_complex: 1.5
+- date_time: '2023-07-21 10:45:00'
+  scores:
+    anxiety: 2.0
+    depression: 1.0
+    energy: 2.0
+    focus: 3.0
+    mood: 2.0
+  stack:
+    medium:
+      temperature: cold
+      type: aloe_vera_juice
+    supplements:
+      ginger: 1.75
+      licorice: 1.5
+      matcha: 2.0
+      omega_3: 0.75
+      saffron: 0.75
+      tulsi: 2.0
+- date_time: '2023-07-21 10:45:00'
+  scores:
+    anxiety: 2.0
+    depression: 1.0
+    energy: 2.0
+    focus: 3.0
+    mood: 2.0
+  stack:
+    medium:
+      temperature: cold
+      type: hemp_milk
+    supplements:
+      ashwagandha: 2.0
+      butterfly_pea_flower: 2.0
+      lemon_balm: 2.0
+      shatavari: 1.5
+      turmeric: 1.5
+- date_time: '2023-07-22 10:45:00'
+  scores:
+    anxiety: 1.0
+    depression: 1.0
+    energy: 2.0
+    focus: 2.0
+    mood: 1.0
+  stack:
+    medium:
+      temperature: cold
+      type: aloe_vera_juice
+    supplements:
+      arjuna_bark: 1.5
+      hibiscus_flower: 2.0
+      matcha: 1.0
+      omega_3: 1.0
+      rose_water: 3.0
+      saffron: 1.0
+      shatavari: 1.5
+- date_time: '2023-07-22 18:30:00'
+  scores:
+    anxiety: 3.5
+    depression: 3.5
+    energy: 4.0
+    focus: 3.5
+    mood: 4.0
+  stack:
+    medium:
+      temperature: hot
+      type: black_tea
+    supplements:
+      arjuna_bark: 1.0
+      ginger: 1.5
+      lemon_balm: 1.0
+- date_time: '2023-07-23 17:00:00'
+  scores:
+    anxiety: 2.0
+    depression: 2.0
+    energy: 3.5
+    focus: 3.0
+    mood: 3.0
+  stack:
+    medium:
+      temperature: hot
+      type: black_tea
+    supplements:
+      butterfly_pea_flower: 1.0
+      ginger: 1.5
+      shatavari: 0.75
+      vitamin_b_complex: 0.75
+- date_time: '2023-07-24 17:45:00'
+  scores:
+    anxiety: 2.5
+    depression: 2.5
+    energy: 3.5
+    focus: 3.0
+    mood: 3.0
+  stack:
+    medium:
+      temperature: hot
+      type: black_tea_plus_oat_milk
+    supplements:
+      arjuna_bark: 1.5
+      ginger: 0.75
+      hibiscus_flower: 1.0
+      licorice: 1.5
+      turmeric: 1.0
+- date_time: '2023-07-25 11:00:00'
+  scores:
+    anxiety: 2.5
+    depression: 2.5
+    energy: 3.5
+    focus: 3.0
+    mood: 3.0
+  stack:
+    medium:
+      temperature: hot
+      type: black_tea
+    supplements:
+      hibiscus_flower: 1.0
+      omega_3: 0.5
+      saffron: 0.5
+      shatavari: 1.5
+      turmeric: 0.75
+- date_time: '2023-07-25 17:45:00'
+  scores:
+    anxiety: 2.0
+    depression: 2.0
+    energy: 3.5
+    focus: 2.0
+    mood: 3.0
+  stack:
+    medium:
+      temperature: hot
+      type: black_tea
+    supplements:
+      arjuna_bark: 0.75
+      butterfly_pea_flower: 1.0
+      lemon_balm: 1.25
+      licorice: 1.5
+- date_time: '2023-07-26 13:15:00'
+  scores:
+    anxiety: 2.0
+    depression: 2.0
+    energy: 3.5
+    focus: 3.0
+    mood: 2.5
+  stack:
+    medium:
+      temperature: cold
+      type: sparkling_water
+    supplements:
+      butterfly_pea_flower: 1.0
+      licorice: 1.5
+      turmeric: 1.5
+      vitamin_b_complex: 1.5
+- date_time: '2023-07-27 16:00:00'
+  scores:
+    anxiety: 2.5
+    depression: 2.5
+    energy: 3.5
+    focus: 3.0
+    mood: 3.5
+  stack:
+    medium:
+      temperature: hot
+      type: black_tea
+    supplements:
+      arjuna_bark: 1.5
+      lemon_balm: 1.0
+      licorice: 1.5
+      turmeric: 1.5
+- date_time: '2023-07-29 11:00:00'
+  scores:
+    anxiety: 2.5
+    depression: 2.5
+    energy: 3.0
+    focus: 3.5
+    mood: 3.5
+  stack:
+    medium:
+      temperature: cold
+      type: sparkling_water
+    supplements:
+      arjuna_bark: 1.5
+      butterfly_pea_flower: 1.0
+      hibiscus_flower: 1.0
+      lemon_balm: 1.0
+      shatavari: 1.5
+      vitamin_b_complex: 1.5
+- date_time: '2023-07-30 9:15:00'
+  scores:
+    anxiety: 2.5
+    depression: 2.5
+    energy: 3.0
+    focus: 3.5
+    mood: 3.5
+  stack:
+    medium:
+      temperature: cold
+      type: sparkling_water
+    supplements:
+      arjuna_bark: 1.0
+      hibiscus_flower: 1.0
+      licorice: 1.5
+      turmeric: 1.5
+      vitamin_b_complex: 1.0
+- date_time: '2023-08-01 20:45:00'
+  scores:
+    anxiety: 3.0
+    depression: 3.0
+    energy: 4.0
+    focus: 3.5
+    mood: 4.0
+  stack:
+    medium:
+      temperature: hot
+      type: green_tea
+    supplements:
+      lemon_balm: 1.25
+      licorice: 1.5
+      shatavari: 1.5
+      turmeric: 1.5
+- date_time: '2023-08-02 16:15:00'
+  scores:
+    anxiety: 3.0
+    depression: 3.0
+    energy: 4.0
+    focus: 3.5
+    mood: 3.5
+  stack:
+    medium:
+      temperature: hot
+      type: black_tea
+    supplements:
+      butterfly_pea_flower: 1.0
+      hibiscus_flower: 1.0
+      turmeric: 1.5
+      vitamin_b_complex: 1.5
+- date_time: '2023-08-03 18:30:00'
+  scores:
+    anxiety: 3.0
+    depression: 3.0
+    energy: 4.0
+    focus: 3.5
+    mood: 4.0
+  stack:
+    medium:
+      temperature: hot
+      type: green_tea
+    supplements:
+      lemon_balm: 1.0
+      licorice: 1.5
+      shatavari: 1.5
+      turmeric: 1.5
+- date_time: '2023-08-05 12:30:00'
+  scores:
+    anxiety: 1.0
+    depression: 2.0
+    energy: 2.5
+    focus: 2.0
+    mood: 2.0
+  stack:
+    medium:
+      temperature: cold
+      type: sprite_drink
+    supplements:
+      licorice: 1.5
+      shatavari: 3.0
+      turmeric: 1.5
+- date_time: '2023-08-06 20:00:00'
+  scores:
+    anxiety: 1.0
+    depression: 2.0
+    energy: 2.5
+    focus: 2.0
+    mood: 2.0
+  stack:
+    medium:
+      temperature: hot
+      type: green_tea
+    supplements:
+      licorice: 1.5
+      shatavari: 1.5
+      turmeric: 0.75
+- date_time: '2023-08-09 20:00:00'
+  scores:
+    anxiety: 4.0
+    depression: 4.0
+    energy: 4.0
+    focus: 4.5
+    mood: 4.5
+  stack:
+    medium:
+      temperature: hot
+      type: buddha_cbd_matcha_tea
+    supplements: {}
+- date_time: '2023-08-23 09:30:00'
+  scores:
+    anxiety: 1.0
+    depression: 1.0
+    energy: 2.0
+    focus: 2.0
+    mood: 2.0
+  stack:
+    medium:
+      temperature: hot
+      type: black_tea
+    supplements:
+      cardamom: 0.1875
+      ginger: 0.75
+      rose_water: 0.5625
+      st_johns_wart: 0.75
+      turmeric: 0.75
+- date_time: '2023-08-24 10:15:00'
+  scores:
+    anxiety: 1.0
+    depression: 1.0
+    energy: 2.0
+    focus: 2.0
+    mood: 2.0
+  stack:
+    medium:
+      temperature: hot
+      type: black_tea
+    supplements:
+      ginger: 1.5
+      licorice: 0.75
+      shatavari: 0.75
+      turmeric: 1.5
+- date_time: '2023-08-27 10:00:00'
+  scores:
+    anxiety: 2.0
+    depression: 3.0
+    energy: 3.5
+    focus: 3.5
+    mood: 3.0
+  stack:
+    medium:
+      temperature: hot
+      type: black_tea
+    supplements:
+      cardamom: 0.375
+      licorice: 1.5
+      rose_water: 1.125
+      turmeric: 1.5
+- date_time: '2023-08-27 10:15:00'
+  scores:
+    anxiety: 3.5
+    depression: 4.0
+    energy: 4.0
+    focus: 4.0
+    mood: 4.0
+  stack:
+    medium:
+      temperature: hot
+      type: black_tea
+    supplements:
+      ginger: 1.5
+      hibiscus_flower: 0.75
+      shatavari: 0.75
+      valerian_root: 0.75
+- date_time: '2023-08-27 18:00:00'
+  scores:
+    anxiety: 1.0
+    depression: 2.0
+    energy: 2.5
+    focus: 3.0
+    mood: 0.0
+  stack:
+    medium:
+      temperature: hot
+      type: black_tea
+    supplements:
+      arjuna_bark: 0.75
+      butterfly_pea_flower: 0.75
+      lemon_balm: 0.75
+      tulsi: 1.5
+- date_time: '2023-09-01 09:30:00'
+  scores:
+    anxiety: 1.0
+    depression: 2.0
+    energy: 3.0
+    focus: 3.0
+    mood: 2.0
+  stack:
+    medium:
+      temperature: hot
+      type: black_tea
+    supplements:
+      ginger: 0.75
+      shatavari: 1.5
+      tulsi: 0.75
+      turmeric: 0.75
+- date_time: '2023-09-01 19:30:00'
+  scores:
+    anxiety: 2.0
+    depression: 3.0
+    energy: 3.5
+    focus: 3.5
+    mood: 3.0
+  stack:
+    medium:
+      temperature: hot
+      type: black_tea
+    supplements:
+      ginger: 0.75
+      lemon_balm: 1.5
+      licorice: 0.75
+      turmeric: 0.75
+- date_time: '2023-09-02 20:15:00'
+  scores:
+    anxiety: 3.0
+    depression: 3.5
+    energy: 4.0
+    focus: 3.0
+    mood: 3.5
+  stack:
+    medium:
+      temperature: cold
+      type: ayurvedic_spice_tea
+    supplements:
+      licorice: 0.75
+      shatavari: 1.5
+      st_johns_wart: 0.75
+- date_time: '2023-09-04 9:45:00'
+  scores:
+    anxiety: 3.0
+    depression: 3.0
+    energy: 4.0
+    focus: 3.0
+    mood: 3.0
+  stack:
+    medium:
+      temperature: hot
+      type: black_tea
+    supplements:
+      arjuna_bark: 0.75
+      cardamom: 0.1875
+      rose_water: 0.5625
+      shatavari: 0.75
+      spearmint: 1.5
+- date_time: '2023-09-05 9:45:00'
+  scores:
+    anxiety: 3.0
+    depression: 3.0
+    energy: 3.5
+    focus: 4.0
+    mood: 3.5
+  stack:
+    medium:
+      temperature: hot
+      type: black_tea
+    supplements:
+      butterfly_pea_flower: 0.75
+      cinnamon: 0.1875
+      ginger: 0.75
+      licorice: 0.75
+      matcha: 0.5625
+      spearmint: 0.75
+      tulsi: 0.75
+- date_time: '2023-09-06 9:15:00'
+  scores:
+    anxiety: 3.0
+    depression: 3.0
+    energy: 3.5
+    focus: 4.0
+    mood: 3.5
+  stack:
+    medium:
+      temperature: hot
+      type: black_tea
+    supplements:
+      arjuna_bark: 0.75
+      hibiscus_flower: 0.75
+      shatavari: 0.75
+      spearmint: 0.75
+      tulsi: 0.75
+      valerian_root: 0.75
+- date_time: '2023-09-07 9:30:00'
+  scores:
+    anxiety: 3.0
+    depression: 3.0
+    energy: 3.5
+    focus: 4.0
+    mood: 4.0
+  stack:
+    medium:
+      temperature: hot
+      type: black_tea
+    supplements:
+      lemon_balm: 0.75
+      licorice: 1.5
+      st_johns_wart: 0.75
+      turmeric: 0.75
+- date_time: '2023-09-09 10:30:00'
+  scores:
+    anxiety: 3.0
+    depression: 3.5
+    energy: 3.5
+    focus: 4.0
+    mood: 4.0
+  stack:
+    medium:
+      temperature: hot
+      type: black_tea
+    supplements:
+      butterfly_pea_flower: 0.75
+      cinnamon: 0.1875
+      licorice: 0.75
+      matcha: 0.5625
+      turmeric: 0.75
+      valerian_root: 0.75
+- date_time: '2023-09-10 10:15:00'
+  scores:
+    anxiety: 4.0
+    depression: 4.0
+    energy: 4.5
+    focus: 4.5
+    mood: 4.0
+  stack:
+    medium:
+      temperature: hot
+      type: black_tea
+    supplements:
+      arjuna_bark: 0.75
+      cardamom: 0.1875
+      ginger: 1.5
+      rose_water: 0.5625
+      shatavari: 0.75
+      st_johns_wart: 0.75
+- date_time: '2023-09-11 9:45:00'
+  scores:
+    anxiety: 3.0
+    depression: 3.0
+    energy: 3.5
+    focus: 3.5
+    mood: 3.0
+  stack:
+    medium:
+      temperature: hot
+      type: black_tea
+    supplements:
+      ginger: 0.75
+      hibiscus_flower: 0.75
+      licorice: 0.75
+      spearmint: 0.75
+      turmeric: 0.75
+- date_time: '2023-09-12 10:45:00'
+  scores:
+    anxiety: 3.0
+    depression: 3.0
+    energy: 4.0
+    focus: 4.0
+    mood: 3.0
+  stack:
+    medium:
+      temperature: hot
+      type: black_tea
+    supplements:
+      butterfly_pea_flower: 1.5
+      cardamom: 0.1875
+      ginger: 0.75
+      lemon_balm: 0.75
+      rose_water: 0.5625
+      shatavari: 0.75
+      tulsi: 0.75
+- date_time: '2023-09-13 9:30:00'
+  scores:
+    anxiety: 3.0
+    depression: 2.5
+    energy: 3.5
+    focus: 4.0
+    mood: 3.0
+  stack:
+    medium:
+      temperature: hot
+      type: black_tea
+    supplements:
+      arjuna_bark: 0.75
+      ginger: 0.75
+      licorice: 0.75
+      spearmint: 0.75
+      turmeric: 0.75
+      valerian_root: 0.75
+- date_time: '2023-09-14 9:30:00'
+  scores:
+    anxiety: 4.0
+    depression: 4.0
+    energy: 4.75
+    focus: 4.5
+    mood: 4.5
+  stack:
+    medium:
+      temperature: hot
+      type: black_tea
+    supplements:
+      butterfly_pea_flower: 0.75
+      cardamom: 0.1875
+      ginger: 0.75
+      lemon_balm: 0.75
+      rose_water: 0.5625
+      shatavari: 0.75
+      tulsi: 0.75
+- date_time: '2023-09-15 9:45:00'
+  scores:
+    anxiety: 3.5
+    depression: 3.5
+    energy: 4.0
+    focus: 4.0
+    mood: 4.0
+  stack:
+    medium:
+      temperature: hot
+      type: black_tea
+    supplements:
+      arjuna_bark: 0.75
+      cinnamon: 0.1875
+      ginger: 0.75
+      matcha: 0.5625
+      shatavari: 1.5
+      st_johns_wart: 0.75
+      turmeric: 0.75
+- date_time: '2023-09-16 10:15:00'
+  scores:
+    anxiety: 4.0
+    depression: 4.25
+    energy: 4.5
+    focus: 4.5
+    mood: 4.0
+  stack:
+    medium:
+      temperature: hot
+      type: black_tea
+    supplements:
+      butterfly_pea_flower: 1.5
+      cardamom: 0.1875
+      rose_water: 0.5625
+      shatavari: 0.75
+      spearmint: 0.75
+      tulsi: 0.75
+      valerian_root: 0.75
+- date_time: '2023-09-17 10:30:00'
+  scores:
+    anxiety: 4.5
+    depression: 4.25
+    energy: 4.75
+    focus: 4.75
+    mood: 4.25
+  stack:
+    medium:
+      temperature: hot
+      type: black_tea
+    supplements:
+      ginger: 0.75
+      hibiscus_flower: 0.75
+      lemon_balm: 0.75
+      shatavari: 0.75
+      spearmint: 0.75
+      turmeric: 0.75
+- date_time: '2023-09-18 10:30:00'
+  scores:
+    anxiety: 4.0
+    depression: 4.0
+    energy: 4.25
+    focus: 4.25
+    mood: 4.0
+  stack:
+    medium:
+      temperature: hot
+      type: black_tea
+    supplements:
+      arjuna_bark: 0.75
+      cinnamon: 0.1875
+      ginger: 0.75
+      matcha: 0.5625
+      shatavari: 0.75
+      spearmint: 1.5
+      st_johns_wart: 0.75
+      tulsi: 0.75
+- date_time: '2023-09-19 15:15:00'
+  scores:
+    anxiety: 4.0
+    depression: 4.0
+    energy: 4.5
+    focus: 4.5
+    mood: 3.75
+  stack:
+    medium:
+      temperature: hot
+      type: black_tea
+    supplements:
+      ginger: 0.75
+      hibiscus_flower: 1.5
+      licorice: 1.5
+      shatavari: 0.75
+      turmeric: 0.75
+      valerian_root: 0.75
+- date_time: '2023-09-20 14:30:00'
+  scores:
+    anxiety: 4.0
+    depression: 4.0
+    energy: 4.25
+    focus: 4.5
+    mood: 4.25
+  stack:
+    medium:
+      temperature: hot
+      type: black_tea
+    supplements:
+      butterfly_pea_flower: 1.5
+      ginger: 0.75
+      lemon_balm: 0.75
+      shatavari: 0.75
+      spearmint: 1.5
+      tulsi: 0.75
+- date_time: '2023-09-22 9:30:00'
+  scores:
+    anxiety: 4.0
+    depression: 4.0
+    energy: 4.25
+    focus: 4.5
+    mood: 4.25
+  stack:
+    medium:
+      temperature: hot
+      type: black_tea
+    supplements:
+      cinnamon: 0.1875
+      ginger: 0.75
+      licorice: 1.5
+      matcha: 0.5625
+      shatavari: 0.75
+      spearmint: 1.5
+      valerian_root: 1.5
+- date_time: '2023-09-24 11:00:00'
+  scores:
+    anxiety: 4.0
+    depression: 4.0
+    energy: 4.25
+    focus: 4.5
+    mood: 4.25
+  stack:
+    medium:
+      temperature: hot
+      type: black_tea
+    supplements:
+      arjuna_bark: 1.5
+      cardamom: 0.1875
+      ginger: 0.75
+      rose_water: 0.5625
+      shatavari: 0.75
+      spearmint: 1.5
+      st_johns_wart: 1.0
+- date_time: '2023-09-25 9:45:00'
+  scores:
+    anxiety: 4.0
+    depression: 4.0
+    energy: 4.25
+    focus: 4.5
+    mood: 4.25
+  stack:
+    medium:
+      temperature: hot
+      type: black_tea
+    supplements:
+      hibiscus_flower: 1.5
+      licorice: 0.75
+      shatavari: 0.75
+      spearmint: 0.75
+      tulsi: 1.5
+      turmeric: 0.75
+- date_time: '2023-09-27 9:30:00'
+  scores:
+    anxiety: 4.0
+    depression: 3.5
+    energy: 4.75
+    focus: 4.75
+    mood: 4.25
+  stack:
+    medium:
+      temperature: hot
+      type: black_tea
+    supplements:
+      arjuna_bark: 0.75
+      butterfly_pea_flower: 1.5
+      cinnamon: 0.1875
+      lemon_balm: 0.75
+      matcha: 0.5625
+      shatavari: 0.75
+      spearmint: 0.75
+- date_time: '2023-09-28 12:45:00'
+  scores:
+    anxiety: 4.0
+    depression: 4.0
+    energy: 4.5
+    focus: 4.5
+    mood: 4.25
+  stack:
+    medium:
+      temperature: hot
+      type: black_tea
+    supplements:
+      arjuna_bark: 0.75
+      butterfly_pea_flower: 0.75
+      cinnamon: 0.25
+      licorice: 0.75
+      matcha: 0.75
+      shatavari: 0.75
+      spearmint: 0.75
+      valerian_root: 1.5
+- date_time: '2023-09-29 13:15:00'
+  scores:
+    anxiety: 4.0
+    depression: 4.0
+    energy: 4.5
+    focus: 4.5
+    mood: 4.0
+  stack:
+    medium:
+      temperature: hot
+      type: black_tea
+    supplements:
+      cardamom: 0.375
+      ginger: 1.5
+      licorice: 0.75
+      rose_water: 1.125
+      shatavari: 0.75
+      spearmint: 0.75
+      turmeric: 0.75
+- date_time: '2023-10-01 13:15:00'
+  scores:
+    anxiety: 4.0
+    depression: 4.0
+    energy: 4.5
+    focus: 4.25
+    mood: 4.0
+  stack:
+    medium:
+      temperature: hot
+      type: black_tea
+    supplements:
+      arjuna_bark: 0.75
+      butterfly_pea_flower: 0.75
+      ginger: 1.5
+      shatavari: 0.75
+      spearmint: 1.5
+      st_johns_wart: 0.75
+      turmeric: 0.75
+- date_time: '2023-10-02 9:30:00'
+  scores:
+    anxiety: 4.0
+    depression: 4.0
+    energy: 4.5
+    focus: 4.25
+    mood: 4.0
+  stack:
+    medium:
+      temperature: hot
+      type: black_tea
+    supplements:
+      ginger: 0.75
+      hibiscus_flower: 1.5
+      lemon_balm: 0.75
+      licorice: 0.75
+      shatavari: 0.75
+      tulsi: 2.25
+- date_time: '2023-10-03 10:30:00'
+  scores:
+    anxiety: 4.0
+    depression: 4.0
+    energy: 4.5
+    focus: 4.25
+    mood: 4.0
+  stack:
+    medium:
+      temperature: hot
+      type: black_tea
+    supplements:
+      arjuna_bark: 0.75
+      butterfly_pea_flower: 1.5
+      cinnamon: 0.375
+      licorice: 1.5
+      matcha: 1.125
+      shatavari: 0.75

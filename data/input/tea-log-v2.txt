@@ -1,0 +1,548 @@
+Date: June 1, 2023
+- [ ] Supplements:
+    - 1 butterfly pea flower, 1 ginger, 1 shatavari, 1 rose water, 1 lemon
+    - Mood: 5, Depression: 4, Focus: 3, Anxiety: 2
+    - Time: 10:45
+- [ ] Supplements:
+    - 1 matcha, 1 rose water, 1 lemon, 1 ginger
+    - Mood: 4, Depression: 0, Focus: 2, Anxiety: 3
+    - Time: 18:00
+
+Date: June 2, 2023
+- [ ] Supplements:
+    - 1 b complex, 1 rose water, 1 ginger, 1 spice mix
+    - Anxiety: -1, Depression: -3, Focus: 2, Mood: 0
+    - Time: 11:00
+
+Date: June 3, 2023
+- [ ] Supplements:
+    - 1 ashwagandha, 1 ginger, 1 saffron + omega-3
+    - Mood: 2, Anxiety: 4, Depression: 4, Focus: 2
+    - Time: 19:00
+- [ ] Supplements:
+    - 1 coffee, 1 moringa, 1 ginger, 1 spice mix
+    - Mood: -1, Anxiety: 0, Depression: 0, Focus: 2
+    - Time: 10:30
+
+Date: June 4, 2023
+- [ ] Supplements:
+    - 1 butterfly pea flower, 1 rose water, 1 lemon, 1 shatavari
+    - Mood: 3, Anxiety: 3, Depression: 1, Focus: 2
+    - Time: 10:00
+- [ ] Supplements:
+    - 2 tulsi, 1 licorice, 1 turmeric
+    - Mood: 2, Anxiety: 2, Depression: 0, Focus: 0
+    - Time: 18:30
+
+Date: June 5, 2023
+- [ ] Supplements:
+    - 1 matcha, 1 turmeric, 1 licorice
+    - Mood: 4, Anxiety: 3, Depression: 0, Focus: 2
+    - Time: 13:30
+
+Date: June 6, 2023
+- [ ] Supplements:
+    - 1 tulsi, 1 shatavari, 1 lemon, 1 saffron + Omega-3
+    - Mood: 3, Anxiety: 1, Depression: 1, Focus: 3
+    - Time: 10:30
+
+Date: June 7, 2023
+- [ ] Supplements:
+    - 1 shatavari, 1 turmeric, 1 ginger, 1 nuun (energy daily hydration)
+    - Mood: 2, Focus: 3, Anxiety: 1, Depression: 0, Energy: 1
+    - Time: 10:30
+- [ ] Supplements:
+    - 1 licorice, 1 vitamin b complex, 1 moringa, 8 Sparkling water + Ice cream
+    - Mood: 2, Focus: 2, Anxiety: 0, Depression: 0, Energy: 2
+    - Time: 15:00
+
+Date: June 8, 2023
+- [ ] Supplements:
+    - 1 butterfly pea flower, 1 shatavari, 1 rose water, 1 lemon
+    - Mood: 4, Depression: 4, Focus: 2, Anxiety: 3, Energy: 2
+    - Time: 10:45
+
+Date: June 9, 2023
+- [ ] Supplements:
+    - 1 hibiscus flower, 2 shatavari, 2 lemon
+    - Mood: 3, Depression: 2, Focus: 2, Anxiety: 2, Energy: 1
+    - Time: 11:00
+- [ ] Supplements:
+    - 1 vitamin B5, 2 tulsi, 1 turmeric
+    - Mood: 2, Depression: 1, Focus: 3, Anxiety: 1, Energy: 3
+    - Time: 16:30
+
+Date: June 10, 2023
+- [ ] Supplements:
+    - 0.5 saffron + omega-3, 1 rose water, 1 ginger, 1 moringa, 1 nuun energy
+    - Mood: 1, Depression: 0, Focus: 3, Anxiety: 0, Energy: 3
+    - Time: 11:00
+
+- [ ] Supplements:
+    - 1.5 ginger, 1 lemon, 1 matcha, 1 shatavari
+    - Mood: 3, Depression: 4, Focus: 3, Anxiety: 1, Energy: 2
+    - Time: 17:00
+
+Date: June 11, 2023
+- [ ] Supplements:
+    - 1 butterfly pea flower, 1 ginger, 1 lemon, 1 tulsi 
+    - Mood: 4, Depression: 4, Focus: 2, Anxiety: 1, Energy: 1
+    - Time: 12:30
+
+Date: June 12, 2023
+- [ ] Supplements:
+    - 2 tulsi, 1 b-complex, 1 spice mix
+    - Mood: 3, Depression: 4, Focus: 4, Anxiety: 2, Energy: 3
+    - Time: 9:30
+
+- [ ] Supplements:
+    - 2 hibiscus, 1 shatavari, 1 ginger
+    - Mood: 3, Depression: 2, Focus: 3, Anxiety: 1, Energy: 1
+    - Time: 17:00
+
+Date: June 13, 2023
+- [ ] Supplements:
+    - 2 tulsi, 1 shatavari, 1 spice mix, 1 black tea
+    - Mood: 3, Depression: 0, Focus: 1, Anxiety: 1, Energy: 1
+    - Time: 11:30
+
+- [ ] Supplements:
+    - 2 hibiscus, 1 lemon, 1 saffron + omega-3
+    - Mood: 3, Depression: 1, Focus: 2, Anxiety: 3, Energy: 3
+    - Time: 17:30
+
+Date: June 14, 2023
+- [ ] Supplements:
+    - 1 licorice, 1 ginger, 1 matcha , 2 black tea, 1 nuun energy
+    - Mood: 1, Depression: 0, Focus:  2, Anxiety: 0, Energy: 3
+    - Time: 11:30
+
+Date: June 15, 2023
+- [ ] Supplements:
+    - 1 butterfly pea flower, 1 lemon, 1 licorice , 1 tulsi
+    - Mood: 3, Depression: 2, Focus:  3, Anxiety: 1, Energy: 3
+    - Time: 11:30
+
+- [ ] Supplements:
+    - 2 tulsi, 1 ginger, 1 saffron + omega-3 
+    - Mood: 2, Depression: 1, Focus:  2, Anxiety: 1, Energy: 2
+    - Time: 16:30
+
+Date: June 16, 2023
+- [ ] Supplements:
+    - 2 hibiscus, 1.5 lemon, 1 ginger
+    - Mood: 0, Depression: 0, Focus:  1, Anxiety: 0, Energy: 1
+    - Time: 17:30
+
+Date: June 17, 2023
+- [ ] Supplements:
+    - 2.5 tulsi, 1 vitamin b complex, 1 shatavari 
+    - Mood: 4, Depression: 2, Focus:  1, Anxiety: 2, Energy: 4
+    - Time: 9:30
+
+- [ ] Supplements:
+    - 1 matcha, 1 shatavari, 1 lemon, 1 tulsi
+    - Mood: 4, Depression: 2, Focus:  1, Anxiety: 2, Energy: 4
+    - Time: 17:45
+
+Date: June 18, 2023
+- [ ] Supplements:
+    - 2 hibiscus, 1 lemon, 1 shatavari 
+    - Mood: 1, Depression: 0, Focus:  1, Anxiety: 0, Energy: 1
+    - Time: 17:30
+
+Date: June 19, 2023
+- [ ] Supplements:
+    - 4 black tea, 1 sukku malli coffee, 1 lemon, 1 tulsi 
+    - Mood: 0, Depression: 0, Focus:  1, Anxiety: 0, Energy: 3
+    - Time: 11:00
+
+Date: June 20, 2023
+- [ ] Supplements:
+    - 1 butterfly pea flower, 1 hibiscus, 1 ginger, 1 licorice
+    - Mood: 3, Depression: 2, Focus:  2, Anxiety: 2, Energy: 1
+    - Time: 11:00
+
+Date: June 21, 2023
+- [ ] Supplements:
+    - 1 vitamin b complex, 1 shatavari, 1 rose water, 1 sukku malli coffee
+    - Mood: 3, Depression: 2, Focus:  2, Anxiety: 2, Energy: 1
+    - Time: 12:15
+
+- [ ] Supplements:
+    - 1 matcha, 1 hibiscus, 1 rose water, 1 ginger
+    - Mood: 2, Depression: 1, Focus:  3, Anxiety: 0, Energy: 1
+    - Time: 18:30
+
+Date: June 22, 2023
+- [ ] Supplements:
+    - 1 butterfly pea flower, 1 licorice, 1 ginger, 1 saffron + omega-3  
+    - Mood: 3, Depression: 1, Focus:  1, Anxiety: 0, Energy: 2
+    - Time: 11:00
+
+- [ ] Supplements:
+    - 1 hibiscus , 1 matcha, 1 ginger, 1 rose water
+    - Mood: 1, Depression: 2, Focus:  3, Anxiety: 0, Energy: 2
+    - Time: 18:00
+
+Date: June 23, 2023
+- [ ] Supplements:
+    - 1 tulsi, 1 shatavari, 1 rose water, 1 turmeric 
+    - Mood: 3, Depression: 1, Focus:  2, Anxiety: 2, Energy: 1
+    - Time: 12:15
+
+- [ ] Supplements:
+    - 1 ashwagandha, 1 licorice, 1 rose water, 1 ginger 
+    - Mood: 3, Depression: 3, Focus:  2, Anxiety: 3, Energy: 4
+    - Time: 17:00
+
+Date: June 24, 2023
+- [ ] Supplements:
+    - 1 lemon balm, 1 ginger, 1 hibiscus, 1 turmeric 
+    -  Mood: 2, Depression: 2, Focus:  1, Anxiety: 1, Energy: 1
+    - Time: 12:15
+
+Date: June 25, 2023
+- [ ] Supplements:
+    - 1 butterfly pea flower, 1 ginger, 1 shatavari, 1 rose water 
+    -  Mood: 2, Depression: 2, Focus:  1, Anxiety: 1, Energy: 1
+    - Time: 11:15
+
+- [ ] Supplements:
+    - 1 vitamin b complex, 1 licorice, 1 rose water, 1 hibiscus 
+    - Mood: 3, Depression: 4, Focus:  2, Anxiety: 3, Energy: 2
+    - Time: 18:15
+
+Date: June 26, 2023
+- [ ] Supplements:
+    - 1 butterfly pea flower, 1 ginger, 1 licorice, 1 rose water 
+    -  Mood: 3, Depression: 2, Focus:  1, Anxiety: 1, Energy: 2
+    - Time: 11:00
+
+- [ ] Supplements:
+    - 2 turmeric, 1 matcha, 1 rose water, 6 orange juice
+    - Mood: 3, Depression: 2, Focus:  4,  Anxiety: 2, Energy: 5
+    - Time: 19:00
+
+Date: June 27, 2023
+- [ ] Supplements:
+    - 1 hibiscus, 1 ginger, 1 shatavari , 1 lemon balm, 6 orange juice
+    -  Mood: 3, Depression: 2, Focus:  3, Anxiety: 2, Energy: 4
+    - Time: 11:30
+
+ [ ] Supplements:
+    - 1 matcha, 1 licorice, 1 saffron + omega-3 , 1 turmeric
+    -  Mood: 3, Depression: 3, Focus:  2, Anxiety: 2, Energy: 2
+    - Time: 18:15
+
+Date: June 28, 2023
+- [ ] Supplements:
+    - 1 hibiscus, 1 matcha, 1 shatavari , 1 tulsi, 6 orange juice
+    -  Mood: 4, Depression: 3, Focus:  2, Anxiety: 2, Energy: 3
+    - Time: 17:45
+
+Date: June 29, 2023
+- [ ] Supplements:
+    - 1 butterfly pea flower, 1 rose water, 1 lemon balm , 1 ginger, 6 orange juice
+    -  Mood: 3, Depression: 1, Focus:  2, Anxiety: 2, Energy: 3
+    - Time: 11:45
+
+- [ ] Supplements:
+    - 1 matcha, 1.5 rose water, 1 turmeric , 1 shatavari
+    -  Mood: 3, Depression: 3, Focus:  3, Anxiety: 4, Energy: 3
+    - Time: 18:15
+
+Date: June 30, 2023
+- [ ] Supplements:
+    - 1 ginger, 1 shatavari, 1 turmeric , 1 saffron + omega-3, 5 green tea
+    -  Mood: 3, Depression: 1, Focus:  4, Anxiety: 4, Energy: 3
+    - Time: 17:00
+
+Date: July 1, 2023
+- [ ] Supplements:
+    - 1 ginger, 1 licorice, 1 vitamin b complex , 1 hibiscus, 6 orange juice
+    -  Mood: 3, Depression: 2, Focus:  3, Anxiety: 2, Energy: 4
+    - Time: 09:15
+
+- [ ] Supplements:
+    - 1 butterfly pea flower, 1 lemon balm, 1 turmeric, 1 matcha
+    -  Mood: 3, Depression: 2, Focus:  3, Anxiety: 2, Energy: 4
+    - Time: 18:45
+
+Date: July 2, 2023
+- [ ] Supplements:
+    - 1 ginger, 1 shatavari, 1 tulsi, 1 rose water, 6 orange juice
+    -  Mood: 3, Depression: 2, Focus:  2, Anxiety: 1, Energy: 2
+    - Time: 10:00
+
+- [ ] Supplements:
+    - 1 butterfly pea flower, 1 tulsi, 1 vitamin b complex, 1 rose water
+    -  Mood: 3, Depression: 2, Focus:  3, Anxiety: 2, Energy: 5
+    - Time: 18:15
+
+Date: July 3, 2023
+- [ ] Supplements:
+    - 1 ginger, 1 shatavari, 1 butterfly pea flower, 1 turmeric, 6 lemon juice
+    -  Mood: 3, Depression: 1, Focus:  3, Anxiety: 1, Energy: 1
+    - Time: 12:45
+
+Date: July 4, 2023
+- [*] Supplements:
+    - 1 ginger, 1 shatavari, 1 saffron + omega-3., 1 rose water, 6 green tea + lemon juice
+    -  Mood: 4, Depression: 4, Focus:  4.5, Anxiety: 4, Energy: 4
+    - Time: 11:15
+
+- [ ] Supplements:
+    - 1 ginger, 1 licorice, 1 butterfly pea flower, 6 lemon juice
+    -  Mood: 2, Depression: 1, Focus:  2, Anxiety: 1, Energy: 1
+    - Time: 19:15
+
+Date: July 5, 2023
+- [] Supplements:
+    - 1 tulsi, 1 lemon balm, 1 hibiscus., 1 turmeric, 6 green tea + lemon juice
+    -  Mood: 1, Depression: 1, Focus:  2, Anxiety: 1, Energy: 1
+    - Time: 11:45
+
+- [ ] Supplements:
+    - 1.5 ginger, 1 rose water, 2 matcha, 4 sparkling water + lemon juice
+    -  Mood: 3, Depression: 1, Focus:  3.5, Anxiety: 2, Energy: 2
+    - Time: 18:45
+
+Date: July 6, 2023
+- [*] Supplements:
+    - 2 hibiscus, 1 shatavari, 1 nuun energy, 4 sparkling water + lemon juice
+    -  Mood: 3, Depression: 3, Focus:  4, Anxiety: 3, Energy: 4
+    - Time: 11:00
+
+- [ ] Supplements:
+    - 2 turmeric, 1 rose water, 1 lemon balm, 1 ginger, 4 sparkling water + orange juice
+    -  Mood: 1, Depression: 1, Focus:  1, Anxiety: 1, Energy: 2
+    - Time: 18:15
+
+Date: July 7, 2023
+- [] Supplements:
+    - 2 butterfly pea flower, 1 ashwagandha, 1 Arjuna bark, 4 sparkling water + orange juice
+    -  Mood: 2, Depression: 2, Focus:  3,  Anxiety: 2, Energy: 2
+    - Time: 11:00
+
+- [ ] Supplements:
+    - 2 ginger, 2 tulsi, 2 licorice, 2 black tea
+    -  Mood: 2, Depression: 1, Focus:  2, Anxiety: 0, Energy: 2
+    - Time: 17:45
+
+
+Date: July 8, 2023
+- [] Supplements:
+    - 1 butterfly pea flower, 2 tulsi, 1 rose water, 1 saffron + omega-3, 4 sparkling water + orange juice
+    -  Mood: 2, Depression: 2, Focus:  3,  Anxiety: 2, Energy: 2
+    - Time: 10:45
+
+- [ ] Supplements:
+    - 1.5 ginger, 2 lemon balm, 1 matcha, 1 butterfly pea flower
+    -  Mood: 2, Depression: 2, Focus:  2, Anxiety: 2, Energy: 2
+    - Time: 18:00
+
+
+Date: July 9, 2023
+- [] Supplements:
+    -1.5 Vitamin b complex, 1.5 tulsi, 1.5 Arjuna bark, 1.5 shatavari, 4 sparkling water + orange juice
+    -  Mood: 3, Depression: 1, Focus:  2, Anxiety: 2, Energy: 1
+    - Time: 10:45
+
+- [ ] Supplements:
+    - 1.5 turmeric, 2 hibiscus, 2 matcha, 2 licorice
+    -  Mood: 2, Depression: 2, Focus:  2, Anxiety: 2, Energy: 2
+    - Time: 18:00
+
+Date: July 10, 2023
+- [] Supplements:
+    -1.5 ginger , 1.5 tulsi, 2 licorice, 2 saffron + omega-3, 4 sparkling water + orange juice
+    -  Mood: 3, Depression: 2, Focus:  3.5, Anxiety: 2, Energy: 4
+    - Time: 11:15
+
+Date: July 11, 2023
+- [] Supplements:
+    -1.5 ginger , 1.5 Arjuna bark, 2 shatavari, 2 butterfly pea flower, 6 coconut water
+    -  Mood: 3, Depression: 1, Focus:  1, Anxiety: 1, Energy: 3
+    - Time: 11:00
+
+- [ ] Supplements:
+    - 1.5 licorice, 2 turmeric, 2 matcha, 1.5 ginger, 6 coconut milk
+    -  Mood: 2, Depression: 2, Focus:  2, Anxiety: 2, Energy: 2
+    - Time: 18:00
+
+Date: July 12, 2023
+- [] Supplements:
+    -1.5 hibiscus, 1.5 Arjuna bark, 2 shatavari, 1.5 vitamin b complex, 6 coconut water
+    -  Mood: 3, Depression: 1, Focus:  1, Anxiety: 1, Energy: 3
+    - Time: 11:00
+
+- [ ] Supplements:
+    - 1.5 ginger, 1 turmeric, 2 matcha, 2 butterfly pea flower, 3 lemon balm, 1 ashwagandha, 8 coconut milk
+    -  Mood: 2, Depression: 2, Focus:  3, Anxiety: 1, Energy: 3.5
+    - Time: 18:00
+
+Date: July 13, 2023
+- [] Supplements:
+    -2.25 ginger, 1.5 Arjuna bark, 2 shatavari, 1 saffron + omega-3, 1 butterfly pea flower
+    -  Mood: 4, Depression: 3, Focus:  3, Anxiety: 2, Energy: 4
+    - Time: 11:00
+
+- [ ] Supplements:
+    - 1.5 licorice, 1.5 turmeric, 1.5 Arjuna bark, 2 butterfly pea flower, 1.5 moringa, 8 coconut milk
+    -  Mood: 3, Depression: 3, Focus: 4, Anxiety: 2, Energy: 4
+    - Time: 17:15
+
+Date: July 14, 2023
+- [] Supplements:
+    -1.5 ginger, 2 matcha, 1.5 vitamin b complex, 1.5 licorice, 4 lemon juice, 2 tulsi
+    -  Mood: 3.5, Depression: 2, Focus:  2, Anxiety: 2, Energy: 3
+    - Time: 11:15
+
+Date: July 17, 2023
+- [] Supplements:
+    -1.5 ginger, 2 matcha, 1.5 vitamin b complex, 1.5 licorice, 4 lemon juice, 2 tulsi
+    -  Mood: 3, Depression: 2, Focus:  3, Anxiety: 2, Energy: 3
+    - Time: 12:30
+
+- [] Supplements:
+    -2 lemon balm, 1.5 saffron + omega-3, 2 butterfly pea flower, 4 lemon juice
+    -  Mood: 2, Depression: 2, Focus:  3, Anxiety: 2, Energy: 3
+    - Time: 20:00
+
+
+Date: July 18, 2023
+- [] Supplements:
+    -1.5 ginger, 1.5 moringa, 1.5 shatavari, 4 lemon juice, 2 tulsi, 1.5 turmeric, 2 hibiscus 
+    -  Mood: 3, Depression: 2, Focus:  3, Anxiety: 2, Energy: 3
+    - Time: 12:30
+
+Date: July 19, 2023
+- [] Supplements:
+    -1.5 ginger, 1 ashwagandha, 1.5 licorice, 4 lemon juice, 1 butterfly pea flower, 1 hibiscus, 1.5 Arjuna bark
+    -  Mood: 2, Depression: 1, Focus:  2, Anxiety: 2, Energy: 3
+    - Time: 11:45
+
+Date: July 20, 2023
+- [] Supplements:
+    -3 rose water, 1.5 shatavari, 4 lemon juice, 2 butterfly pea flower, 1.5 Arjuna bark, 1.5 turmeric, 1.5 vitamin b complex
+    -  Mood: 4, Depression: 2, Focus:  3, Anxiety: 2, Energy: 4
+    - Time: 10:45
+
+Date: July 21, 2023
+- [] Supplements:
+    - 1.5 licorice, 4 aloe Vera juice, 2 matcha, 1.5 saffron + omega-3, 1.75 ginger, 2 tulsi
+    -  Mood: 2, Depression: 1, Focus:  3, Anxiety: 2, Energy: 2
+    - Time: 10:45
+
+- [] Supplements:
+    - 2 ashwagandha, 6 hemp milk, 2 butterfly pea flower, 1.5 turmeric, 1.5 shatavari, 2 lemon balm
+    -  Mood: 2, Depression: 1, Focus:  3, Anxiety: 2, Energy: 2
+    - Time: 10:45
+
+Date: July 22, 2023
+- [] Supplements:
+    - 1.5 shatavari, 4 aloe Vera juice, 2 hibiscus, 2 saffron + omega-3, 1.5 Arjuna bark, 3 rose water, 1 matcha 
+    -  Mood: 1, Depression: 1, Focus:  2, Anxiety: 1, Energy: 2
+    - Time: 10:45
+
+- [*] Supplements:
+    - 1.5 ginger, 8 hot black tea, 1 lemon balm, 1 Arjuna bark
+    -  Mood: 4, Depression: 3.5, Focus:  3.5, Anxiety: 3.5, Energy: 4
+    - Time: 18:30
+
+
+Date: July 23, 2023
+- [] Supplements:
+    - 0.75 shatavari, 1 butterfly pea flower, 0.75 vitamin b complex, 1.5 ginger, 8 hot black tea
+    -  Mood: 3, Depression: 2, Focus:  3, Anxiety: 2, Energy: 3.5
+    - Time: 17:00
+
+Date: July 24, 2023
+- [] Supplements:
+    - 1.5 licorice, 1 hibiscus, 0.75 ginger, 1 turmeric, 1.5 Arjuna bark, 10 hot black tea + oat milk
+    -  Mood: 3, Depression: 2.5, Focus:  3, Anxiety: 2.5, Energy: 3.5
+    - Time: 17:45
+
+Date: July 25, 2023
+- [] Supplements:
+    - 1.5 shatavari, 1 hibiscus, 0.75 turmeric, 1 saffron + omega-3, 8 hot black tea
+    -  Mood: 3, Depression: 2.5, Focus:  3, Anxiety: 2.5, Energy: 3.5
+    - Time: 11:00
+
+- [] Supplements:
+    - 1.5 licorice, 1 butterfly pea flower, 1.25 lemon balm, 0.75 Arjuna bark, 8 hot black tea
+    -  Mood: 3, Depression: 2, Focus:  2, Anxiety: 2, Energy: 3.5
+    - Time: 17:45
+
+Date: July 26, 2023
+- [] Supplements:
+    - 1.5 licorice, 1 butterfly pea flower, 1.5 turmeric, 1.5 vitamin b complex
+    -  Mood: 2.5, Depression: 2, Focus:  3, Anxiety: 2, Energy: 3.5
+    - Time: 13:15
+
+Date: July 27, 2023
+- [] Supplements:
+    - 1.5 licorice, 1 lemon balm, 1.5 turmeric, 1.5 Arjuna bark, 8 hot black tea
+    -  Mood: 3.5, Depression: 2.5, Focus:  3, Anxiety: 2.5, Energy: 3.5
+    - Time: 16:00
+
+Date: July 29, 2023
+- [] Supplements:
+    - 1.5 shatavari, 1 lemon balm, 1.5 vitamin b complex, 1.5 Arjuna bark, 1 hibiscus, 1 butterfly pea flower
+    -  Mood: 3.5, Depression: 2.5,  Focus:  3.5, Anxiety: 2.5, Energy: 3
+    - Time: 11:00
+
+Date: July 30, 2023
+- [] Supplements:
+    - 1.5 licorice, 1 hibiscus, 1 vitamin b complex, 1 Arjuna bark, 1.5 turmeric
+    -  Mood: 3.5, Depression: 2.5,  Focus:  3.5, Anxiety: 2.5, Energy: 3
+    - Time: 9:15
+
+Date:  August 1, 2023
+- [*] Supplements:
+    - 1.5 licorice, 1.5 shatavari, 1.5 turmeric, 1.25 lemon balm, 4 hot green tea
+    -  Mood: 4, Depression: 3, Focus:  3.5, Anxiety: 3, Energy: 4
+    - Time: 20:45
+
+Date:  August 2, 2023
+- [*] Supplements:
+    - 1.5 vitamin b complex, 1.5 turmeric, 1 hibiscus, 1 butterfly pea flower, 4 hot black tea
+    -  Mood: 3.5, Depression: 3, Focus:  3.5, Anxiety: 3, Energy: 4
+    - Time: 16:15
+
+Date:  August 3, 2023
+- [*] Supplements:
+    - 1.5 licorice, 1.5 shatavari, 1.5 turmeric, 1 lemon balm, 4 hot green tea
+    -  Mood: 4, Depression: 3, Focus:  3.5, Anxiety: 3, Energy: 4
+    - Time: 18:30
+
+Date:  August 5, 2023
+- [] Supplements:
+    - 1.5 licorice, 3 shatavari, 1.5 turmeric, 6 sprite cold drink
+    -  Mood: 2, Depression: 2, Focus:  2, Anxiety: 1, Energy: 2.5
+    - Time: 12:30
+
+Date:  August 6, 2023
+- [] Supplements:
+    - 1.5 licorice, 1.5 shatavari, 0.75 turmeric, 4 hot green tea
+    -  Mood: 2, Depression: 2, Focus:  2, Anxiety: 1, Energy: 2.5
+    - Time: 20:00
+
+Date:  August 9, 2023
+- [*] Supplements:
+    - 16 hot Buddha CBD Matcha Tea
+    -  Mood: 4.5, Depression: 4, Focus:  4.5, Anxiety: 4, Energy: 4
+    - Time: 20:00
+
+Date:  August 23, 2023
+- [] Supplements:
+    - 0.75 St. John’s Wart, 0.75 turmeric, 0.75 rose water + cardamom (3:1), 0.75 ginger, 8 hot black tea
+    -  Mood: 2, Depression: 1, Focus:  2, Anxiety: 1, Energy: 2
+    - Time: 09:30
+
+Date:  August 24, 2023
+- [] Supplements:
+    - 1.5 turmeric, 0.75 shatavari, 0.75 licorice, 1.5 ginger, 8 hot black tea
+    -  Mood: 2, Depression: 1, Focus:  2, Anxiety: 1, Energy: 2
+    - Time: 10:15

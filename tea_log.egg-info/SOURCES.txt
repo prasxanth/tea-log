@@ -1,0 +1,14 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+tea_log/__init__.py
+tea_log/analyzer.py
+tea_log.egg-info/PKG-INFO
+tea_log.egg-info/SOURCES.txt
+tea_log.egg-info/dependency_links.txt
+tea_log.egg-info/not-zip-safe
+tea_log.egg-info/requires.txt
+tea_log.egg-info/top_level.txt

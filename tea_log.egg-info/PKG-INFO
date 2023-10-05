@@ -1,0 +1,123 @@
+Metadata-Version: 2.1
+Name: tea-log
+Version: 0.1
+Summary: Parser and analyzer for tea log files
+Home-page: UNKNOWN
+Author: Prashanth Kumar
+Author-email: prasxanth.kumar@gmail.com
+License: BSD 3-Clause License
+Keywords: parse,analyze,Hy
+Platform: UNKNOWN
+Classifier: Topic :: Software Development
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Software/Developers
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Python: >=3.6
+License-File: LICENSE
+
+# defstruct
+
+<font size = "+2"> Parser and analyzer for `tea-log.txt` files. </font>
+
+## Installation
+
+Install using `setup.py` (`--user` is optional)
+
+```bash
+python3 setup.py install --user
+```
+
+or in development mode,
+
+```bash
+python3 setup.py develop --user
+```
+
+##  API
+
+This package provides the `parser` and `analyzer` for `tea-log.txt` files that are used to track recipes of adaptogens + nootropics and well-being scores. 
+
+Sample log below,
+
+```
+Date: June 1, 2023
+- [ ] Supplements:
+    - 1 butterfly pea flower, 1 ginger, 1 shatavari, 1 rose water, 1 lemon
+    - Mood: 5, Depression: 4, Focus: 3, Anxiety: 2
+    - Time: 10:45
+- [ ] Supplements:
+    - 1 matcha, 1 rose water, 1 lemon, 1 ginger
+    - Mood: 4, Depression: 0, Focus: 2, Anxiety: 3
+    - Time: 18:00
+
+Date: June 2, 2023
+- [ ] Supplements:
+    - 1 b complex, 1 rose water, 1 ginger, 1 spice mix
+    - Anxiety: -1, Depression: -3, Focus: 2, Mood: 0
+    - Time: 11:00
+
+Date: June 3, 2023
+- [ ] Supplements:
+    - 1 ashwagandha, 1 ginger, 1 saffron + omega-3
+    - Mood: 2, Anxiety: 4, Depression: 4, Focus: 2
+    - Time: 19:00
+- [ ] Supplements:
+    - 1 coffee, 1 moringa, 1 ginger, 1 spice mix
+    - Mood: -1, Anxiety: 0, Depression: 0, Focus: 2
+    - Time: 10:30
+
+Date: June 4, 2023
+- [ ] Supplements:
+    - 1 butterfly pea flower, 1 rose water, 1 lemon, 1 shatavari
+    - Mood: 3, Anxiety: 3, Depression: 1, Focus: 2
+    - Time: 10:00
+- [ ] Supplements:
+    - 2 tulsi, 1 licorice, 1 turmeric
+    - Mood: 2, Anxiety: 2, Depression: 0, Focus: 0
+    - Time: 18:30
+
+Date: June 5, 2023
+- [ ] Supplements:
+    - 1 matcha, 1 turmeric, 1 licorice
+    - Mood: 4, Anxiety: 3, Depression: 0, Focus: 2
+    - Time: 13:30
+
+Date: June 6, 2023
+- [ ] Supplements:
+    - 1 tulsi, 1 shatavari, 1 lemon, 1 saffron + Omega-3
+    - Mood: 3, Anxiety: 1, Depression: 1, Focus: 3
+    - Time: 10:30
+
+Date: June 7, 2023
+- [ ] Supplements:
+    - 1 shatavari, 1 turmeric, 1 ginger, 1 nuun (energy daily hydration)
+    - Mood: 2, Focus: 3, Anxiety: 1, Depression: 0, Energy: 1
+    - Time: 10:30
+- [ ] Supplements:
+    - 1 licorice, 1 vitamin b complex, 1 moringa, 8 Sparkling water + Ice cream
+    - Mood: 2, Focus: 2, Anxiety: 0, Depression: 0, Energy: 2
+    - Time: 15:00
+
+Date: June 8, 2023
+- [ ] Supplements:
+    - 1 butterfly pea flower, 1 shatavari, 1 rose water, 1 lemon
+    - Mood: 4, Depression: 4, Focus: 2, Anxiety: 3, Energy: 2
+    - Time: 10:45
+```
+
+See `sample-tea-log.txt` for a larger sample.
+
+### Usage
+
+## Tests
+Ensure `hy` is in the executable path. Run the `tests.hy` command line script from inside the [tests](tests) directory,
+
+```bash
+./tests.hy
+```
+
+
+
