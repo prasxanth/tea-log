@@ -38,6 +38,17 @@ Before you can use this script, make sure you have the required libraries instal
 pip install -r requirements.txt
 ```
 
+Install the package using ``setup.py`` (``--user`` is optional)
+
+```bash
+python3 setup.py install --user
+```
+or in development mode,
+
+```bash
+python3 setup.py develop --user
+```
+
 ## Command Line Options
 
 ### `parse-tea-log`
