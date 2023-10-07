@@ -28,7 +28,7 @@ Date:  September 7, 2023
    - Time: 9:30
 ```
 
-This Python script provides a set of command-line utilities for parsing, modeling, and predicting data from a tea log. For a given well-being score, an ensemble model attempts to predict a stack consisting of *n* supplements that can be used to achieve the score. The script uses various libraries and tools for data processing, analysis, and visualization. Below is a brief overview of the available commands and options.
+This [Hy](https://github.com/hylang/hy) script provides a set of command-line utilities for parsing, modeling, and predicting data from a tea log. For a given well-being score, an ensemble model attempts to predict a stack consisting of *n* supplements that can be used to achieve the score. The script uses various libraries and tools for data processing, analysis, and visualization. Below is a brief overview of the available commands and options.
 
 ## Installation
 
