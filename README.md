@@ -88,11 +88,11 @@ Fit an ensemble stack predictor regression model to the parsed tea log data and 
 ```bash
 hy main.py fit
   --tea-log <path-to-tea-log-json>
-  [--output-pickle <path-to-output-pickle-file>]
+  --output-pickle <path-to-output-pickle-file>
 ```
 
 - `--tea-log`: Path to the parsed tea log JSON file (required).
-- `--output-pickle`: Path to the output model pickle file (optional).
+- `--output-pickle`: Path to the output model pickle file (required).
 
 ### `predict`
 
