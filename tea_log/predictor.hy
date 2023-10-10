@@ -36,11 +36,13 @@
       X (.filter self.encoded-df :items self.features)
       y (.filter self.encoded-df :items self.targets)
       [self.X-train self.X-valid self.y-train self.y-valid] (train-test-split X y :test-size 0.2 :random-state 42)
-      self.models [(RandomForestRegressor :random-state 42)
-                   (LinearRegression)
-                   (Ridge)
-                   (DecisionTreeRegressor :random-state 42)
-                   (KNeighborsRegressor)] 
+      self.models (if (is models None)
+                    [(RandomForestRegressor :random-state 42)
+                     (LinearRegression)
+                     (Ridge)
+                     (DecisionTreeRegressor :random-state 42)
+                     (KNeighborsRegressor)]
+                    models) 
       self.model-fits (self.fit-models)))
   
   (defn records->encoded-df [self]
