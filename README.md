@@ -56,7 +56,7 @@ python3 setup.py develop --user
 Parse a tea log file and save the data as JSON and/or YAML.
 
 ```bash
-hy main.py parse-tea-log
+hy main.hy parse-tea-log
   --tea_log <path-to-tea-log-file>
   --output-json <path-to-output-json-file>
   [--output-yaml <path-to-output-yaml-file>]
@@ -71,7 +71,7 @@ hy main.py parse-tea-log
 Generate a Pydantic model based on the parsed tea log data and optionally save it to a file.
 
 ```bash
-hy main.py pydantic-model
+hy main.hy pydantic-model
   --tea-log <path-to-tea-log-json>
   [--show]
   [--output-model <path-to-output-model-file>]
@@ -86,7 +86,7 @@ hy main.py pydantic-model
 Fit an ensemble stack predictor regression model to the parsed tea log data and save it.
 
 ```bash
-hy main.py fit
+hy main.hy fit
   --tea-log <path-to-tea-log-json>
   --output-pickle <path-to-output-pickle-file>
 ```
@@ -99,7 +99,7 @@ hy main.py fit
 Use the fitted ensemble stack predictor model to make predictions based on input scores and optionally save the predictions to a CSV file.
 
 ```bash
-hy main.py predict
+hy main.hy predict
   --fit-file <path-to-fitted-model-pickle>
   --mood <comma-separated-mood-scores>
   --depression <comma-separated-depression-scores>
@@ -123,7 +123,7 @@ hy main.py predict
 Run a pipeline of tasks specified in a JSON configuration file.
 
 ```bash
-hy main.py run-pipeline
+hy main.hy run-pipeline
   --pipeline-file <path-to-pipeline-json>
   [--output-html <path-to-output-html-report>]
 ```
